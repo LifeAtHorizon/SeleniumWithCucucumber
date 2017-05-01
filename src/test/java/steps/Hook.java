@@ -29,7 +29,7 @@ public class Hook extends BaseUtil{
 
 
         //Chrome driver
-        System.setProperty("webdriver.chrome.driver", "https://github.com/LifeAtHorizon/SeleniumWithCucucumber.git");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\venka\\Desktop\\External jars\\chromedriver.exe");
         base.Driver = new ChromeDriver();
     }
 
